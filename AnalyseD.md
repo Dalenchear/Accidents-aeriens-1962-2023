@@ -7,7 +7,8 @@ Ce projet présente une analyse des accidents d'avion survenus entre 1962 et 202
 
 - Analyse.ipynb : Notebook Jupyter contenant l'analyse des données, le nettoyage, les statistiques descriptives et les visualisations.
 - Dashboard : Présentation Graphique à destination d’un public général (managers, décideurs, investisseurs).
-
+- Non technical Presentattion de l'analyse
+    
 ## Objectifs de l'analyse
 
 - Identifier les périodes où les accidents sont les plus fréquents.
